@@ -1,0 +1,24 @@
+{
+  "name": "grid-system.css",
+  "version": "1.0.0",
+  "description": "A simple method for create HTML element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centell/grid-system.css.git"
+  },
+  "keywords": [
+    "css",
+    "grid",
+    "system"
+  ],
+  "author": "Centell <centell@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/centell/grid-system.css/issues"
+  },
+  "homepage": "https://github.com/centell/grid-system.css#readme"
+}
